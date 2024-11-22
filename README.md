@@ -1,6 +1,6 @@
 #  🎮 Tic-Tac-Toe GUI Game
 
-A Simple and colorful game implemented in Python using Tkinter Library. Play against a friend and enjoy the nostalgia with your whatever time you have until the Middle life crises reach you.
+A Simple and colorful game implemented in Python using Tkinter Library. Play against a friend and enjoy the nostalgic feeling while whatever time you have, until the Middle life crises reach you.
 
 # 📸 Features
 - **Interactive Gameplay**: Click to mark your X or O and enjoy real-time updates.
