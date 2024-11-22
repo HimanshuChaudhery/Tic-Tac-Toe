@@ -16,10 +16,10 @@ A Simple and colorful game implemented in Python using Tkinter Library. Play aga
 # 📋 Usage
 ### 1️⃣ Clone or Download
 Download or clone the repository:
-`
+```
   git clone https://github.com/HimanshuChaudhery/Tic-Tac-Toe
   cd Tic-Tac-Toe
-`
+```
 
 ### 2️⃣ Run the Game
 Ensure you have Python installed, then run:
