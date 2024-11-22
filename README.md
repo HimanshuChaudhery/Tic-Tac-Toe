@@ -34,8 +34,8 @@ python tic_tac_toe.py
 
 # 📸 Screenshots
 
-### Initial Board
-![inital_image](
+### Gameplay iamge 
+![inital_image](https://github.com/HimanshuChaudhery/Tic-Tac-Toe/blob/main/tic-tac-toe.jpg)
 
 ---
 
@@ -47,4 +47,4 @@ python tic_tac_toe.py
 
 ---
 
-**Now go ahead and cross off some fun! 🌀**
+**Now go ahead have some fun! 🌀**
