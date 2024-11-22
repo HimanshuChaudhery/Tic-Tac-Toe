@@ -35,4 +35,16 @@ python tic_tac_toe.py
 # 📸 Screenshots
 
 ### Initial Board
-<img src = "https://github.com/HimanshuChaudhery/Tic-Tac-Toe/blob/main/tic-tac-toe.jpg" width"50%"/>
+![inital_image](
+
+---
+
+## 💡 Future Improvements
+
+- Add support for single-player mode with AI.
+- Track scores for multiple rounds.
+- Introduce customizable themes and grid sizes.
+
+---
+
+**Now go ahead and cross off some fun! 🌀**
