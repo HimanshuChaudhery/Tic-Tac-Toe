@@ -24,7 +24,7 @@ Download or clone the repository:
 ### 2️⃣ Run the Game
 Ensure you have Python installed, then run:
 `
-python tic_tac_toe.py
+python main.py
 `
 
 ### 3️⃣ Play!
