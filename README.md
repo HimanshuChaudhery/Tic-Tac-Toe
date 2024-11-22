@@ -35,4 +35,4 @@ python tic_tac_toe.py
 # 📸 Screenshots
 
 ### Initial Board
-![initial](Tic tac toe.jpg)
+![initial](https://github.com/HimanshuChaudhery/Tic-Tac-Toe/blob/main/tic-tac-toe.jpg)
