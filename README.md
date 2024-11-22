@@ -35,7 +35,7 @@ python main.py
 # 📸 Screenshots
 
 ### Gameplay image
-![inital_image](https://github.com/HimanshuChaudhery/Tic-Tac-Toe/blob/main/tic-tac-toe.jpg)
+![inital_image](./tic-tac-toe.jpg)
 
 ---
 
